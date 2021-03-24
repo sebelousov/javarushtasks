@@ -8,8 +8,8 @@ target/
 *.iml
 *.iws
 *.jrtc
-*.java
-*.class
+## *.java
+## *.class
 *.info
 *.properties
 
@@ -18,7 +18,7 @@ target/
 ## /3.JavaMultithreading/
 ## /4.JavaCollections/
 ## /5.OnlineInternship/
-/out/
+## /out/
 /JavaRushPlugin.properties
 /Инструкция.png
 /out.log
